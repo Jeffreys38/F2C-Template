@@ -20,11 +20,6 @@
 F2C is the perfect place for those who value privacy and a seamless music-streaming experience.
 
 ## Some designs
-<style>
-    .border {
-        border: 7px solid black;
-    }
-</style>
 
 <div class="border">
     <img src="./images/Register.png">
